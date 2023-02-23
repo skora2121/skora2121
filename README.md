@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skora2121
-- 👀 I’m interested in Data Analysis, Data Science and Machine Learning
-- 🌱 I’m currently learning Python Data Analysis libraries
+- 👀 I’m interested in DWH, Data Analysis, Reporting technologies and ETL process
+- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
