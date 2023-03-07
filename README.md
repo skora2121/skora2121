@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skora2121
+- 👋 Hi, I’m Andrija
 - 👀 I’m interested in DWH, Data Analysis, Reporting technologies and ETL process
 - 🌱 I’m currently learning Python programming language
 - 📫 How to reach me: skora2121@gmail.com
